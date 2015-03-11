@@ -1,0 +1,25 @@
+Wybierz współpracownika do projektu lub zadeklaruj samodzielną realizację projektu.
+GR-TN-rano
+
+GR-TP-rano
+
+GR-TN-wieczór
+
+RG-TP-wieczór
+
+Przykładowe tematy projektów:
+A. stacja pogodowa z możliwością wysyłania powiadomień o zagrożeniach SMSem, 
+   z interfejsem pozwalającym na integrację z systemem ogrzewania budynku,
+   wyświetlacze i sterownik pozwalający sprawdzić minimalne, maksymalne, średnie 
+   mierzone wartości, możliwość narysowania wykresu zmian temperatury w ostatnim
+   miesiącu, tygodniu, dniu lub innym okresie. 
+   Możliwość sprawdzenia wybranych wartości w różnych miejscach (strona południowa, 
+   strona zachodnia, garaż, pokój dzienny)
+
+B. centralka alarmowa z możliwością powiadamiania SMSem lub innymi drogami o wybranej klasie zdarzeń. 
+   Możliwość szybkiego dodawania gości z mniejszymi uprawnieniami. Rejestracja dziennika aktywności
+   (otwarcia okien, drzwi, uzbrajanie lub rozbrajanie alarmu, wykrycie obecności w strefach.
+   Obsługa stref (w nocy alarm się włączy, gdy pojawi się intruz na parterze, ale alarm nie aktywuje 
+   się kiedy zostaną wykryci domownicy na piętrze) 
+   
+C. 
