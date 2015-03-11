@@ -1,6 +1,10 @@
 Wybierz współpracownika do projektu lub zadeklaruj samodzielną realizację projektu.
 GR-TN-rano
-
+   1. Gabriel Ceballos 203972
+      Łukasz Kowal 203971
+      Projekt A - wstępnie 
+      
+      
 GR-TP-rano
 
 GR-TN-wieczór
