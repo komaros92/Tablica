@@ -22,4 +22,4 @@ B. centralka alarmowa z możliwością powiadamiania SMSem lub innymi drogami o 
    Obsługa stref (w nocy alarm się włączy, gdy pojawi się intruz na parterze, ale alarm nie aktywuje 
    się kiedy zostaną wykryci domownicy na piętrze) 
    
-C. 
+C. Wasze pomysły na projekty, mogą to być luźne propozycje.
