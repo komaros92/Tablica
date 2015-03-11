@@ -8,7 +8,7 @@ GR-TN-rano
 GR-TP-rano
 
 GR-TN-wieczór
-   1. Sebastian Lawniczak 204068 (Projekt A: Android + beaglebone)
+   1. Sebastian Lawniczak 204068 (coś w stylu Projektu A: Android + beaglebone)
    2. Wojciech Małecki 204018 (Projekt A - wstępnie)
 
 RG-TP-wieczór
