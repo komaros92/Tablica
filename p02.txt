@@ -11,6 +11,7 @@ GR-TN-wieczór
    2. Wojciech Małecki 204018 (Projekt A - wstępnie)
 
 GR-TP-wieczór
+   1. Rafał Mazerant 186935 + Piotr Małecki-Jurek 183381 Projekt A
 
 Przykładowe tematy projektów:
 A. stacja pogodowa z możliwością wysyłania powiadomień o zagrożeniach SMSem, 
