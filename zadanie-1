@@ -1,0 +1,10 @@
+Przygotuj klasę ZOO. W skład ZOO wchodzą obiekty klasy Zwierze. 
+Dostępne gatunki zwierząt to Koza, Gnu, Zebra, Forfiter. 
+Pamiętaj jednak, że w przyszłości zoo może się wzbogacić o nowe gatunki zwierzaków. 
+Każde zwierzę wydaje głos na żądanie (z tym że każdy gatunek ma specyficzny głos). 
+Każde zwierzę ma indywidualną masę ciała. Dodawaj losowo zwierzęta do Zoo tak długo, 
+aż nie zostanie osiągnięta krytyczna masa 1000 kg (powyżej tej masy trzeba będzie zapłacić 
+podatek Belki za każdy nadmiarowy kilogram zwierzaka). Masa zwierzaka jest losowana w ramach 
+limitów określonych na etapie konstruowania zwierzaka, 
+przy czym te limity są różne dla każdego gatunku.
+
