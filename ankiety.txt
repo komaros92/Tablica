@@ -1,0 +1,54 @@
+Ankiety Wxx
+
+Ankieta W03
+1.Które z paradygmatów wspiera C++? (programowanie: deklaratywne,
+funkcyjne, logiczne, uogólnione (generyczne), imperatywne,
+proceduralne, strukturalne, obiektowe, sterowane zdarzeniami).
+2.Wymień te słowa kluczowe, które są charakterystyczne (pojawiły się)
+w C++.
+3.Wymień 3 elementy składowe diagramu przypadków użycia.
+4.Zademonstruj na przykładzie lub opisz przeznaczenie diagramu
+aktywności.
+5.W jakim celu stosowane jest narzędzie „valgrind”?
+6.* Co dosłownie oznacza słowo „Valgrind” ?
+
+Ankieta W04
+1.W jakim celu stosujemy assert?
+2.Jaka jest złożoność czasowa algorytmu Fibonacciegozaimplementowanego w wersji
+czysto rekurencyjnej?
+3.Na czym polega przewaga szablonu vector nad tablicą alokowaną dynamicznie?
+Podaj kilka argumentów.
+4.Podaj fragment kodu, w którym będzie miało miejscewywołanie konstruktora
+kopiującego (możesz użyć części kodu z zad. 5)
+5.Wykonano poniższy program. Jakie będą efekty jego działania?
+class A { public:
+ A() { cout << "A" << endl; }
+ A(const A&) { cout << "B" << endl; }
+ ~A() { cout << "C" << endl; }
+};
+int main() {
+ A a;
+ new A;
+ return 0;
+}
+
+Ankieta W05
+1.Co oznacza pojęcie „programowanie dynamiczne”? Podaj przykład zastosowania.
+2.Jakie warunki muszą być spełnione (co należy zrobić), aby możliwe było użycie
+polimorfizmu w C++?
+3.Zapisz fragment kodu (definicję klasy) lub opisz wkilku zdaniach następujące
+mechanizmy: hermetyzacja, dziedziczenie, przesłanianie
+4.Co będzie efektem działania poniższego kodu?
+class A {public:
+ ~A() { cout <<"~A()"; }
+void m() { cout <<"A::m()"; }
+};
+class B :public A {public:
+ ~B() { cout <<"~B()"; }
+void m() { cout <<"B::m()"; }
+};
+void main() {
+ A *obj =new B();
+ obj->m();
+delete obj;
+}
