@@ -1,3 +1,11 @@
+Zapoznaj się z vector, string, ifstream. 
+Wczytaj plik tekstowy hamlet.txt do pamięci przekształcając go w wektor napisów w taki sposób, 
+  aby wyodrębione zostały słowa oraz to, co jest między słowami.
+  Przykład:
+  "To be, or not to be,--that is the question:--"
+  przekształci się do postaci:
+  "To"," ","be",", ","or"," ","not"," ","to"," ","be",",--","that"," ","is"," ","the"," ","question",":--","\n"
+  
 Wyświetl Hamleta w taki sposób, że z każdej linii tekstu wybierane jest tylko piąte słowo. 
   W razie jego braku zawartość tej linii nie będzie wyświetlona.
 Ile różnych słów występuje w Hamlecie?
