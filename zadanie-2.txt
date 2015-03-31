@@ -1,0 +1,6 @@
+Zoo zawiera kolekcję wskaźników Zwierze (np. vector <Zwierze*> zwierzeta;)
+Zwierzaki maja skończoną długość życia, co sekundę losowo wybrany egzemplarz idzie na rzeź.
+Pogrążeni w rozpaczy przedstawiciele tego samego gatunku z tej okazji dają głos.
+Przedstawiciele innych gatunków nie reagują.
+Wskazówka: wzorzec projektowy Obserwator
+
