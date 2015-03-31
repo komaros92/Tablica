@@ -1,0 +1,15 @@
+Wyświetl Hamleta w taki sposób, że z każdej linii tekstu wybierane jest tylko piąte słowo. 
+  W razie jego braku zawartość tej linii nie będzie wyświetlona.
+Ile różnych słów występuje w Hamlecie?
+Które słowo występuje najczęściej?
+Wyświetl Hamleta od tyłu.
+Posortuj wszystkie znalezione unikatowe słowa i wyświetl ich listę.
+Plik tekstowy jest mało elegancki. Przekształć Hamleta do formatu HTML, przy czym pominięte 
+  mają być wszystkie wielokrotne spacje. Znaki interpunkcyjne pozostaw nienaruszone.
+Są pewne ważne słowa: słowa kluczowe języka C++. Wczytaj ich listę z zewnętrznego 
+  pliku keywords.txt [http://pl.cppreference.com/w/cpp/keyword] do kontenera vector<string> w pamięci.
+Wyświetlając Hamleta w postaci dokumentu HTML, zaznacz słowa kluczowe C++ pogrubieniem.
+Wczytaj do pamięci zarówno hamlet.txt [http://www.gutenberg.org/dirs/etext98/2ws2610.txt] 
+  jak i macbeth.txt [http://www.gutenberg.org/dirs/etext98/2ws3410.txt]. 
+  Zamień miejscami co drugie słowo w obu tych dramatach (2, 4, 6, ... słowo z 'Macbeth' niech trafi do 'Hamlet' i na odwrót). 
+  Wyświetl efekty tego eksperymentu.
