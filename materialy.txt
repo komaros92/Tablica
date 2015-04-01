@@ -1,0 +1,4 @@
+Więcej i sensowniej niż w Wikipedii, ale na tyle mało, że większość z Was powinna dać radę przeczytać całość :)
+
+https://courses.cs.washington.edu/courses/cse403/11sp/lectures/lecture08-uml1.pdf
+https://courses.cs.washington.edu/courses/cse403/11sp/lectures/lecture09-uml2.pdf
