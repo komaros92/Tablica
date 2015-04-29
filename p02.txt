@@ -5,6 +5,7 @@ GR-TN-rano
       Projekt A - wstępnie 
       
 GR-TP-rano
+   1. Beata Jerzak 204029, Rafał Giemza 204024 Projekt B
 
 GR-TN-wieczór
    1. Sebastian Lawniczak 204068 (coś w stylu Projektu A: Android + beaglebone)
