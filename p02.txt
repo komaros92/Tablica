@@ -2,7 +2,7 @@ Wybierz współpracownika do projektu lub zadeklaruj samodzielną realizację pr
 GR-TN-rano
    1. Gabriel Ceballos 203972
       Łukasz Kowal 203971
-      Projekt A - wstępnie 
+      Projekt wlasny - oprogramowanie stanowiska pomiarowego w c# z zastosowaniem wzorca VMC.
       
 GR-TP-rano
    1. Beata Jerzak 204029, Rafał Giemza 204024 Projekt B
