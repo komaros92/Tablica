@@ -11,6 +11,11 @@ GR-TN-wieczór
    1. Sebastian Lawniczak 204068 (coś w stylu Projektu A: Android + beaglebone)
    2. Wojciech Małecki 204018 (Projekt A - wstępnie)
 
+GR-TP-rano
+   1.Przemyslaw Rogoz 204047} sterownik UDP
+   2.Pawel Pokryszka 204013}  
+
+
 GR-TP-wieczór
    1. Rafał Mazerant 186935 + Piotr Małecki-Jurek 183381 Projekt A
 
